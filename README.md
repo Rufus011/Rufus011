@@ -35,6 +35,29 @@
   </table>
 </div>
 
+## 🎯 Skills Matrix
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/Trading_Analysis-★★★★★-00ff00"/>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Bot_Development-★★★★★-00ffff"/>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/Risk_Management-★★★★☆-00ff00"/>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Market_Research-★★★★☆-00ffff"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
 ## 🎮 Featured Projects
 
 <div align="center">
@@ -67,6 +90,32 @@ class Rufus011:
         }
 ```
 
+## 🌊 Workflow Animation
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
+</div>
+
+## 🎯 Trading Performance
+
+<div align="center">
+
+```ascii
+╔══════════════════════════════════════╗
+║        TRADING METRICS 2024          ║
+╠══════════════════════════════════════╣
+║                                      ║
+║ Success Rate [▰▰▰▰▰▰▰▰▱] 89%        ║
+║                                      ║
+║ Win Ratio    [▰▰▰▰▰▰▰▱▱] 78%        ║
+║                                      ║
+║ ROI          [▰▰▰▰▰▰▱▱▱] 67%        ║
+║                                      ║
+╚══════════════════════════════════════╝
+```
+
+</div>
+
 ## 🌐 Connect
 
 <div align="center">
@@ -95,6 +144,11 @@ class Rufus011:
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rufus011&theme=react-dark&bg_color=0d1117&color=00ffff&line=00ff00&point=00ffff&area=true&hide_border=true" width="100%"/>
+</div>
+
+## 🎵 Current Status
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Developing_New_Strategies-00ff00?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=000000"/>
 </div>
 
 <div align="center">
